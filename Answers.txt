@@ -1,0 +1,15 @@
+What is Git?
+Ans. Git is a Version control system , use to track changes in the code over time.
+
+Why is Git required in software development?
+Ans. Git provides various tools that can be usefull for software developers as There are multiple software developers working on a project so track code properly and efficiently git is used.
+
+Difference between Git and GitHub.
+Ans. Git is a VCS and Github is a software working as a single source of trust bw collaborators
+
+What is a repository?
+Ans. repository is just like a folder in which all other files and folders are tracked
+
+What is version control?
+Ans. Version control is use to track the changes that happens during the software development and thus use to maintain code properly and efficiently.
+
