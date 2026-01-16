@@ -1,1 +1,2 @@
 This is my skills section , I have a good knowledge of DSA with Java
+Adding some more skills in my skills section
