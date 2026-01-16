@@ -13,3 +13,23 @@ Ans. repository is just like a folder in which all other files and folders are t
 What is version control?
 Ans. Version control is use to track the changes that happens during the software development and thus use to maintain code properly and efficiently.
 
+Difference between soft reset, mixed reset, and hard reset.
+Ans. reset is used to go back to the previous commits and delets the commits history
+    Soft : it keeps the files in staging area and keeps the working directory as it is.
+    Mixed : it removes the files in staging area and also removes file from the working directory.
+    Hard : it removes the file from both the places.
+
+Difference between reset and revert.
+Ans. Reset is used to go to the previous commits and revert is used when we want a single commit to be   reverted back and keeps the rest of the commit as it is.
+
+When should revert be preferred over reset?
+Ans. When we want all the changes but change a particular commit.
+
+What is cherry-pick in Git?
+Ans. when we want to have a particular commit from one branch to other. when we want to have a particular change from other branch to our own branch
+
+When should cherry-pick be avoided?
+Ans. When we want multiple commits from other branch.
+
+What problems can arise if cherry-pick is overused?
+Ans. Commit history gets polluted.
