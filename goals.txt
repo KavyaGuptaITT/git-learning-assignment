@@ -1,1 +1,2 @@
-My goal is to become a full time employee at InTimeTec
+My goal is to become a full time employee at InTimeTec.
+I want to be the best at data structures on leetcode.

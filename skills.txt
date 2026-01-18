@@ -1,1 +1,3 @@
-This is my skills section , I have a good knowledge of DSA with Java
+This is my skills section. 
+I have a good knowledge of data structures in java and c.
+I have recently studied javascript,html and css.
