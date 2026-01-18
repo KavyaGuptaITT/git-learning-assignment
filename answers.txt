@@ -1,0 +1,35 @@
+Q. What is Git?
+Ans. Git is a version control system used to track changes in code over time.
+
+Q. Why is Git required in software development?
+Ans. Git provides useful tools for software developers, especially when multiple developers are working on the same project. It helps track code changes properly and efficiently.
+
+Q. Difference between Git and GitHub.
+Ans. Git is a version control system, while gitHub is a platform that acts as a single source of truth for collaborators and hosts git repositories.
+
+Q. What is a repository?
+Ans. A repository is similar to a folder in which all files and folders are tracked by git.
+
+Q. What is version control?
+Ans. Version control is used to track changes that occur during software development, helping maintain code properly and efficiently.
+
+Q. Difference between soft reset, mixed reset, and hard reset.
+Ans. Reset is used to go back to previous commits and remove commit history.
+    Soft reset: Keeps the files in the staging area and leaves the working directory unchanged.
+    Mixed reset: Removes the files from the staging area but keeps them in the working directory.
+    Hard reset: Removes the files from both the staging area and the working directory.
+
+Q. Difference between reset and revert.
+Ans. Reset is used to move back to previous commits, while revert is used to undo a specific commit while keeping the rest of the commits unchanged.
+
+Q. When should revert be preferred over reset?
+Ans. Revert should be preferred when we want to keep all other changes but undo a particular commit.
+
+Q. What is cherry-pick in Git?
+Ans. Cherry-pick is used when we want to apply a specific commit from one branch to another.
+
+Q. When should cherry-pick be avoided?
+Ans. Cherry-pick should be avoided when we need multiple commits from another branch.
+
+Q. What problems can arise if cherry-pick is overused?
+Ans. If cherry-pick is overused, the commit history becomes cluttered and harder to understand.
